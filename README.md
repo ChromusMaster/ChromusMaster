@@ -1,4 +1,6 @@
-### Hi there 👋
+### 
+Atualmente trabalhando como administrador de banco de dados, mas pensando seriamente em mudar de área.
+
 
 <!--
 **ChromusMaster/ChromusMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
