@@ -1,7 +1,7 @@
 ### 
 <h1> Perfil em costante evolução </h1>
-<p>Atualmente trabalhando como administrador de banco de dados em Belo Horizonte. Prestando serviços para uma startup com software de gestão para incorporadoras.
-   Faço algumas edições e atuamente edito videos para a MisClaire (produtora de conteúdos da twitch). Nada profissionalmente (ainda) fazendo para ajudar ela a crescer.
+<p>Atualmente trabalhando como Administrador de Banco de Dados em Belo Horizonte - MG. Prestando serviços para uma startup com software de gestão para incorporadoras.
+   Faço algumas edições e atualmente edito videos para a MisClaire (produtora de conteúdos da twitch). Nada profissionalmente (ainda) fazendo para ajudar ela a crescer.
 </p>
 <p>
  Caso tenha interesse em alguma edição me procure no instagram , lá uso o mesmo nome de usuario. Para contatos profissionais de banco de dados procure meu perfil do linkedin.
